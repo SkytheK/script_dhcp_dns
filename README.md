@@ -1,2 +1,4 @@
 # script_DHCP_DNS
-Script con el contenido para crear un servidor con un servicio DHCP y DNS (Linux). 
+- Script with DHCP and DNS service. (only LINUX)
+- Use sc_dhcp_dns.sh to install all service.
+- Use ssh.sh to install with SSH. (remote)
